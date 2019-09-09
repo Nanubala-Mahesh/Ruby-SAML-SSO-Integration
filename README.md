@@ -1,24 +1,10 @@
-# README
+# This is a sample SAML-SSO-INTEGRATION APPLICATION
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Things you may want need to take care:
 
-* Ruby version
+* Contains SAML controller with init and consume actions
 
-* System dependencies
+* login to any SSO providers
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* create an application and add metadata, issuer and callback url in the corresponding commented places inside SAML controller

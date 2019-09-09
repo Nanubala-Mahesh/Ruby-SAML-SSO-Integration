@@ -1,0 +1,5 @@
+{
+  "name": "saml_auth",
+  "private": true,
+  "dependencies": {}
+}
